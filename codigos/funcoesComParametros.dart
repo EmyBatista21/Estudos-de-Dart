@@ -9,7 +9,7 @@ void saudacoes(String nome, String genero, {bool mostrarDateTime = true, String 
   print(separador * 30);
   print("Olá, $nome!");
   if(genero == "F" || genero == "f")
-    print("Seja bem-vinda");
+    print("Seja bem-vinda, Cal!");
   else
    print("Seja bem-vindo");
   if(mostrarDateTime)
