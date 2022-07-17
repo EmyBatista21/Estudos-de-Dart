@@ -3,8 +3,8 @@ void main() {
 }
 
 void saudacoes() {
-  print("Saudações da Emy");
-  print("Seja bem-vind@");
+  print("Olá, Emy!");
+  print("Seja bem-vinda(o)");
   print("Agora: ${agora()}");
 }
 
